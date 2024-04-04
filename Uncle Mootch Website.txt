@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uncle Mootch - Luxury Clothing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: oatmeal;
+            color: black;
+        }
+        header {
+            background-color: black;
+            color: oatmeal;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: sandybrown;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: black;
+            color: oatmeal;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Welcome to Uncle Mootch - Luxury Clothing
+    </header>
+    <div class="container">
+        <section>
+            <h2>About Us</h2>
+            <p>Uncle Mootch brings you the epitome of luxury and exclusivity in clothing. Our carefully crafted designs, made from the finest materials, embody elegance and sophistication.</p>
+        </section>
+        <section>
+            <h2>Product Showcase</h2>
+            <p>Explore our exclusive collection of luxurious clothing items that exude style and refinement.</p>
+            <!-- Add images and descriptions of your clothing products -->
+        </section>
+        <section>
+            <h2>Contact Us</h2>
+            <p>For inquiries, collaborations, or any assistance, feel free to contact us:</p>
+            <p>Email: info@unclemootch.com</p>
+            <p>Phone: +1 (123) 456-7890</p>
+        </section>
+    </div>
+    <footer>
+        &copy; 2024 Uncle Mootch - Luxury Clothing
+    </footer>
+</body>
+</html>
